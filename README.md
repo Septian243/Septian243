@@ -19,9 +19,9 @@
 
 #### 🔥 My Stats:
 
-<div>
-  <img src="https://streak-stats.demolab.com?user=Septian243&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=Septian243&theme=blue-green) <br/>
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Septian243&theme=blue-green&hide_border=false) <br/>
+![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Septian243&theme=blue-green&layout=compact)
 
 #### Play Games With Me:
 
