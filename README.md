@@ -19,9 +19,9 @@
 
 #### 🔥 My Stats:
 
-![Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=Septian243&theme=blue-green) <br/>
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Septian243&theme=blue-green&hide_border=false) <br/>
-![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Septian243&theme=blue-green&layout=compact)
+![Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=Septian243&theme=radical) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Septian243&theme=dracula)](https://git.io/streak-stats) <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Septian243&layout=compact)
 
 #### Play Games With Me:
 
