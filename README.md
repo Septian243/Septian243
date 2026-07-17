@@ -21,7 +21,8 @@
 
 ![Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=Septian243&theme=radical) <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Septian243&theme=dracula)](https://git.io/streak-stats) <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Septian243&layout=compact)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Septian243&layout=pie)](https://github.com/anuraghazra/github-readme-stats) -->
 
 #### Play Games With Me:
 
